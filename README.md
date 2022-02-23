@@ -1,4 +1,4 @@
-# security_tools
+# Security Tools
 A collection of security tools
 
 > 工具都在 [Releases 中](https://github.com/dbgee/security_tools/releases)
